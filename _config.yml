@@ -22,7 +22,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: Zoe
+author: zoe
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -113,7 +113,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Zoe     # Default author for pages
+      author: zoe     # Default author for pages
   -
     scope:
       path: ''
@@ -122,7 +122,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Zoe     # Default author for posts
+      author: zoe     # Default author for posts
 
 
 
