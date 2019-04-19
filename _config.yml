@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Zo Bloggs'
+title: "Zo Bloggs"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'collective home of my blog, artwork, music, tech projects, craftwork, documentaries and general Zoeness'
+slogan: "collective home of my blog, artwork, music, tech projects, craftwork, documentaries and general Zoeness"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Ex Data Analyst turning Artist, & recently diagnosed Autistic, »Zo Bloggs« is a record of Me; my art, music, crafts, video series', autism & blogging.'
+description: "Ex Data Analyst turning Artist, & recently diagnosed Autistic, »Zo Bloggs« is a record of Me; my art, music, crafts, video series', autism & blogging."
 
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
@@ -22,12 +22,12 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: ZoBloggs
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://zoeseph.github.io'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
