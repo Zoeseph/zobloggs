@@ -37,3 +37,8 @@
 #   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/
+#   class: icon-cloud
+#   title: ""
