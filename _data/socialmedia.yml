@@ -13,32 +13,12 @@
   class: icon-twitter
   title: "be my first twitter buddy!"
 
- - name: Instagram
-   url: https://www.instagram.com/zobloggs_/
-   class: icon-instagram
-   title: "catch me almost daily on ig"
+- name: Instagram
+  url: https://www.instagram.com/zobloggs_/
+  class: icon-instagram
+  title: "catch me almost daily on ig"
 
- - name: Soundcloud
-   url: https://soundcloud.com/user-20621387
-   class: icon-soundcloud
-   title: "I produce and create my own music, listen here"
-
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
-
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/
-#   class: icon-cloud
-#   title: ""
+- name: Soundcloud
+  url: https://soundcloud.com/user-20621387
+  class: icon-soundcloud
+  title: "I produce and create my own music, listen here"
