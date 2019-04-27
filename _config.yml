@@ -198,8 +198,8 @@ msapplication_tilecolor:                '#fabb00'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-# socialmedia:
-#    twitter: phlow
+ socialmedia:
+    twitter: zobloggs_
 #    facebook: phlow.media
 
 
