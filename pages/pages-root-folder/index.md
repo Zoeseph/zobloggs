@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: Untitled_Artwork.png
 widget1:
   title: "Blog & Zortfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
