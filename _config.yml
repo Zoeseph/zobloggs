@@ -39,7 +39,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/Zoeseph/zoeseph.github.io/tree/master/images'
+urlimg: https://zoeseph.github.io/tree/master/images
 
 
 
