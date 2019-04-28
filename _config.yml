@@ -14,11 +14,11 @@ title: "Zo Bloggs"
 slogan: "collective home of my blog, artwork, music, tech projects, craftwork, documentaries and general Zoeness"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "See what else I'm up to on my other platforms:"
+description: "Ex Data Analyst turning Artist, & recently diagnosed Autistic; »Zo Bloggs« is a record of Me; my art, music, crafts, video series', autism & blogging."
 
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: "Ex Data Analyst turning Artist, & recently diagnosed Autistic; »Zo Bloggs« is a record of Me; my art, music, crafts, video series', autism & blogging."
+credits: "See what else I'm up to on my other platforms:"
 
 # Main author of the website
 # See > authors.yml
