@@ -11,7 +11,7 @@ widget1:
   title: "Blog"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. The trials and tribulations of dabbling late in life with very different career paths, without a degree, and generally just trying to make life work whilst keeping afloat with my mental health.'
+  text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
 widget2:
   title: "Art Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/info/'
