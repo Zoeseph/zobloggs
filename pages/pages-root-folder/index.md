@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Art Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>. <br/>1. Painting/Drawings<br/>2. Crafts<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>. <br/>1. Painting/Drawings<br/>2. Crafts and DIY<br/>3. Videography and Editting: <a href="http://youtube.com/">An Autism webseries I&#39;m working on</a>.<br/>4. Original Music production/compsition work. <br/>5. Tech work & projects'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "My Music"
