@@ -23,7 +23,7 @@ widget2:
 widget3:
   title: "My Music"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: Untitled_Artwork.png
+  image: zb-mymusic-crop.png
   text: 'A very personal hobby of mine that I've practised on and off for well over a decade is Music Production. Attempting everything from song writing, composing, vocals and instruments; I've only recently starting releasing my work publicly, under my other pseudonym <em>Zoeseph</em>.'
 #
 # Use the call for action to show a button on the frontpage
