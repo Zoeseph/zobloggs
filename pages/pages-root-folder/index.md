@@ -11,7 +11,7 @@ widget1:
   title: "Blog"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and developments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. The trials and tribulations of dabbling late in life with very different career paths, without a degree, and generally just trying to make life work whilst keeping afloat with my mental health.'
 widget2:
   title: "Art Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/info/'
