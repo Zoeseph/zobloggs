@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Untitled_Artwork.png
+  image_fullwidth: zb-header.png
 
 widget1:
   title: "Blog"
