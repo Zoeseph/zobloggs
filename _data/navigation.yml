@@ -21,7 +21,7 @@
     url: "#"
 
 - title: "Autism"
-  url: "/design/autism/"
+  url: "/autism/"
   side: left
   dropdown:
   - title: "Video Series"
