@@ -5,7 +5,7 @@
   url: "/"
   side: left
 
-- title: "My Work"
+- title: "Portfolio"
   url: "#"
   side: left
   dropdown:
@@ -23,9 +23,8 @@
 - title: "Autism"
   url: "/autism/"
   side: left
-  dropdown:
-  - title: "Video Series"
-    url: "#"
+
+    
 # link to it's own page on autism, with widgets to youtube and blog, ig etc , tagged in artwork etc
 - title: Blog
   url: "/blog/"
